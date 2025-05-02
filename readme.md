@@ -1,4 +1,4 @@
-# Setup a Multi Node Kubernetes Cluster Using Kubeadm
+# Setup a Single/Multi Node Kubernetes Cluster Using Kubeadm
 
 
 **If you are using AWS EC2 servers, you need to allow specific traffic on specific ports as below**
